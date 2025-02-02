@@ -1,7 +1,6 @@
-streamlit==1.41.1
-opencv-python-headless
-torch
+opencv-python-headless==4.9.0.80
 numpy
-import cv2
-opencv-python
+torch
+streamlit
+
 
